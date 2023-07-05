@@ -28,3 +28,5 @@ if you want just to create a branch {
     // for creating and swiching at the same command line
     git checkout -b name_of_the_branch
 }
+
+Thanks for this class
